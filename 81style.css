@@ -1,0 +1,17 @@
+h1
+{
+	color: snow; 
+	font-size: 40px;
+}
+.body_backgorund {
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/17/10/14/pattern-3327148_1280.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    background-color:white;
+    border-style: ridge;
+
+}
